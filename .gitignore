@@ -28,6 +28,7 @@
 *.w64
 *.wav
 *.wavex
+*.vcxproj*
 .DS_Store
 .deps
 .dirstamp
